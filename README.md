@@ -1,6 +1,6 @@
 # SICP Environment
 
-An opinionated setup for studying "Structure and Interpretation of Computer Programs" (SICP) using [Racket](https://racket-lang.org/), [SICP language support](https://github.com/jeapostrophe/racket-sicp), and [VS Code](https://code.visualstudio.com/).
+An opinionated setup for studying "Structure and Interpretation of Computer Programs" (SICP) using [Racket](https://racket-lang.org/), [SICP language support](https://docs.racket-lang.org/sicp-manual/SICP_Language.html), and [VS Code](https://code.visualstudio.com/).
 
 ## Goals
 
