@@ -1,0 +1,8 @@
+// Override key bindings by placing them into your key bindings file.
+[
+    {
+        "key": "ctrl+alt+n",  // Ctrl+Option+n on Mac
+        "command": "workbench.action.tasks.runTask",
+        "args": "Start REPL"
+    }
+] 
